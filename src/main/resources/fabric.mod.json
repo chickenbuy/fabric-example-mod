@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "test",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Test Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "chickenbuy"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
+    "homepage": "",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
